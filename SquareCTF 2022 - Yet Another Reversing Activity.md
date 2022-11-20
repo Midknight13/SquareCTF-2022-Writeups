@@ -178,7 +178,7 @@ We recall that the specific bytes we're XORing together are just columns 5 and 7
 39 5f 99 34 83 f7 ee 6f 8d a6 a5 e5 d9 3c 0b 28 b8 e8 99 77 08 24 92 44 d8 97
 ```
 We can now XOR each these columns together and decode the result as ASCII to get the flag:
-`flag{m33t_me_1n_7h3_ar3n4}
+`flag{m33t_me_1n_7h3_ar3n4}`
 
 # the heck did we just do??
 TL;DR:
